@@ -4,6 +4,8 @@ git has a mutable index called stage
 git tracks changes.....
 git tracks changes of files
 
+it is crezy
+
 <<<<<<< HEAD
 creating a new branch is quick @ simple
 =======
